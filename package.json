@@ -1,6 +1,6 @@
 {
-  "homepage": "https://MinorDistractions.github.io/material-ui-cra",
-  "name": "material-ui-cra",
+  "homepage": "https://MinorDistractions.github.io",
+  "name": "home",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
